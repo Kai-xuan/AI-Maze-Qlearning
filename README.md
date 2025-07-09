@@ -1,4 +1,4 @@
-# 🧠 AI Maze Solver with Q-learning
+# 🧠 AI 迷宮解決專案：以 Q-learning 解決迷宮導航問題
 
 本專案使用 Q-learning 強化學習方法，訓練智能代理人從起點學習走出迷宮。  
 適合作為 AI 初學者的強化學習入門實作！
